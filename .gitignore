@@ -1,0 +1,8 @@
+node_modules/
+.playwright/
+playwright-report/
+.vscode/
+.env
+dist/
+coverage/
+*.log
